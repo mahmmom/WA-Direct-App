@@ -1,0 +1,20 @@
+{
+  "short_name": "WA Direct",
+  "name": "WA Direct Connect",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/192px-WhatsApp.svg.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#128C7E",
+  "background_color": "#ECE5DD"
+}

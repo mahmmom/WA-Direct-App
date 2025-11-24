@@ -1,0 +1,5 @@
+{
+  "name": "WA Direct Connect",
+  "description": "A privacy-focused web application to initiate WhatsApp chats without saving contacts. Features AI-powered message drafting and local history management.",
+  "requestFramePermissions": []
+}
